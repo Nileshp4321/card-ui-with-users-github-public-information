@@ -1,9 +1,5 @@
-// import React from 'react';
-import { Routes ,Route } from 'react-router-dom';
-// import logo from './logo.svg';
+import React from 'react';
 import './App.css';
-import Card from './User';
-import Fetchdata from './Fetchdata';
 import User from './User';
 
 function App() {
